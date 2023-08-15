@@ -9,6 +9,6 @@ document.getElementById('log-in').addEventListener('click', function () {
         window.location.href = 'bankinside.html';
     }
     else {
-        window.location.href = 'index.html';
+        alert('Please contact JP Choyon Khan');
     }
 })
